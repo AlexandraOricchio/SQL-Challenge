@@ -5,8 +5,8 @@ I have been assigned my first research project as the new data engineer at Pewle
 
 #### Repository Structure
 Inside the EmployeeSQL folder you will find the following:
-- **data** folder: CSV files of raw data
-- **output** folder: png files of visualizations created in the bonus notebook 
+- **data** folder: contains the CSV files of raw data
+- **output** folder: contains png files of visualizations created in the bonus notebook 
 - **Bonus_notebook**: jupyter lab notebook with further data analysis and corresponding visualizations
 - **employee_schema**: sql file of database schema represent the data engineering process
 - **employee_queries**: sql file of all queries executed to complete the data analysis
